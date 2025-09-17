@@ -1,0 +1,1009 @@
+{
+  "users": [
+    {
+      "id": "3153",
+      "fullName": "Shahid",
+      "email": "shahid@gmail.com",
+      "password": "123456",
+      "blocked": false,
+      "status": "active",
+      "role": "user"
+    },
+    {
+      "id": "42ab",
+      "fullName": "az",
+      "email": "az@gmail.com",
+      "password": "123456",
+      "status": "active",
+      "blocked": false,
+      "role": "user"
+    },
+    {
+      "id": "bd1a",
+      "fullName": "sha",
+      "email": "s@1",
+      "password": "123",
+      "status": "active",
+      "blocked": false,
+      "role": "user"
+    },
+    {
+      "id": "8382",
+      "fullName": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "status": "active",
+      "blocked": false,
+      "role": "user"
+    },
+    {
+      "id": "6ef7",
+      "fullName": "j",
+      "email": "j@123",
+      "password": "123",
+      "status": "active",
+      "blocked": false,
+      "role": "user"
+    },
+    {
+      "id": "75b2",
+      "fullName": "asiff",
+      "email": "salih@gmail.com",
+      "password": "123",
+      "role": "user"
+    },
+    {
+      "id": "ce1e",
+      "fullName": "asifff",
+      "email": "w@gmail.com",
+      "password": "123",
+      "role": "user"
+    },
+    {
+      "id": "36ca",
+      "fullName": "hashim",
+      "email": "h@gmail.com",
+      "password": "123",
+      "role": "user",
+      "status": "active",
+      "blocked": false
+    },
+    {
+      "id": "46ec",
+      "fullName": "vithul",
+      "email": "v@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "status": "active",
+      "blocked": false
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Premium Dog Food",
+      "descreption": "High protein kibble for adult dogs",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/gif_3_2.gif?v=1753593895&width=300&height=300&crop=center&fit=crop",
+      "category": "dog",
+      "old_price": "999",
+      "new_price": "666",
+      "status": "active"
+    },
+    {
+      "id": "2",
+      "name": "Puppy Starter Food",
+      "descreption": "Balanced nutrition for growing puppies",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/152504.png?v=1753340464&width=300&height=300&crop=center&fit=crop",
+      "category": "dog",
+      "old_price": 799,
+      "new_price": 425,
+      "status": "active"
+    },
+    {
+      "id": "3",
+      "name": "Dog Chew Sticks",
+      "descreption": "Tasty chicken flavored chew sticks",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/1_P1_2317462b-08f9-4ad6-92ee-a84e5ae09722.png?v=1750069994&width=300&height=300&crop=center&fit=crop",
+      "category": "dog",
+      "old_price": 450,
+      "new_price": 249,
+      "status": "active"
+    },
+    {
+      "id": "4",
+      "name": "Dog Shampoo",
+      "descreption": "Gentle cleansing shampoo for dogs",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/1131.png?v=1750922664&width=300&height=300&crop=center&fit=crop",
+      "category": "dog",
+      "old_price": 699,
+      "new_price": 399,
+      "status": "active"
+    },
+    {
+      "id": "5",
+      "name": "Dog Collar",
+      "descreption": "Durable nylon collar for medium dogs",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/image_2611.webp?v=1747764578&width=300&height=300&crop=center&fit=crop",
+      "category": "dog",
+      "old_price": 550,
+      "new_price": 299,
+      "status": "active"
+    },
+    {
+      "id": "6",
+      "name": "Cat Food",
+      "descreption": "Crunchy tuna flavored cat food",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/3_23.jpg?v=1756971544&width=300&height=300&crop=center&fit=crop",
+      "category": "cat",
+      "old_price": 899,
+      "new_price": 499,
+      "status": "active"
+    },
+    {
+      "id": "7",
+      "name": "Kitten Food",
+      "descreption": "Nutrient-rich starter food for kittens",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/immunitychewstiximage1.png?v=1740563399&width=300&height=300&crop=center&fit=crop",
+      "category": "cat",
+      "old_price": 799,
+      "new_price": 425,
+      "status": "active"
+    },
+    {
+      "id": "8",
+      "name": "Cat Treats",
+      "descreption": "Delicious salmon flavored treats",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/1_be06c3c9-3fa8-48dc-90b2-9d4f28dd1014.jpg?v=1752045049&width=300&height=300&crop=center&fit=crop",
+      "category": "cat",
+      "old_price": 350,
+      "new_price": 199,
+      "status": "active"
+    },
+    {
+      "id": "9",
+      "name": "Cat Litter",
+      "descreption": "Clumping, odor control cat litter",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/duckchews21.png?v=1733293997&width=300&height=300&crop=center&fit=crop",
+      "category": "cat",
+      "old_price": 999,
+      "new_price": 599,
+      "status": "active"
+    },
+    {
+      "id": "10",
+      "name": "Cat Scratcher",
+      "descreption": "Durable scratching board for cats",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/Frame_344684069_1_1.png?v=1741025098&width=300&height=300&crop=center&fit=crop",
+      "category": "cat",
+      "old_price": 1200,
+      "new_price": 749,
+      "status": "active"
+    },
+    {
+      "id": "11",
+      "name": "Dog Harness",
+      "descreption": "Adjustable harness for medium to large dogs",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/Frame1405175535.png?v=1728640251&width=300&height=300&crop=center&fit=crop",
+      "category": "dog",
+      "old_price": 999,
+      "new_price": 649,
+      "status": "active"
+    },
+    {
+      "id": "12",
+      "name": "Dog Bed",
+      "descreption": "Soft and cozy bed for dogs",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/BowlersImageUpdate.png?v=1746408025&width=300&height=300&crop=center&fit=crop",
+      "category": "dog",
+      "old_price": 1999,
+      "new_price": 1399,
+      "status": "active"
+    },
+    {
+      "id": "13",
+      "name": "Dog Bowl Set",
+      "descreption": "Stainless steel food and water bowl",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/products/supertails_54_1.png?v=1696612174&width=300&height=300&crop=center&fit=crop",
+      "category": "dog",
+      "old_price": 799,
+      "new_price": 450,
+      "status": "active"
+    },
+    {
+      "id": "14",
+      "name": "Dog Raincoat",
+      "descreption": "Waterproof coat for rainy walks",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/3144202.png?v=1721385734&width=300&height=300&crop=center&fit=crop",
+      "category": "dog",
+      "old_price": 1200,
+      "new_price": 799,
+      "status": "active"
+    },
+    {
+      "id": "15",
+      "name": "Dog Dental Chew",
+      "descreption": "Chews to support oral hygiene",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/Frame1707487314.png?v=1756710493&width=300&height=300&crop=center&fit=cropg",
+      "category": "dog",
+      "old_price": 600,
+      "new_price": 349,
+      "status": "active"
+    },
+    {
+      "id": "16",
+      "name": "Cat Carrier Bag",
+      "descreption": "Portable travel bag for cats",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/products/2_2fb440c9-4ab9-4bc3-bf1e-be98c524c4291-518615.png?v=1696498829&width=300&height=300&crop=center&fit=crop",
+      "category": "cat",
+      "old_price": 2500,
+      "new_price": 1799,
+      "status": "active"
+    },
+    {
+      "id": "17",
+      "name": "Cat Toy Ball Set",
+      "descreption": "Interactive toy balls for cats",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/Frame_1405175614.png?v=1730355067&width=300&height=300&crop=center&fit=crop",
+      "category": "cat",
+      "old_price": 499,
+      "new_price": 299,
+      "status": "active"
+    },
+    {
+      "id": "18",
+      "name": "Cat Grooming Brush",
+      "descreption": "Soft brush for healthy fur coat",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/Frame_17_cb456797-0f6a-4725-b9f6-78ff64eb8595.png?v=1748282892&width=300&height=300&crop=center&fit=crop",
+      "category": "cat",
+      "old_price": 750,
+      "new_price": 425,
+      "status": "active"
+    },
+    {
+      "id": "19",
+      "name": "Cat Climbing Tower",
+      "descreption": "Multi-level play tower for cats",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/CFODF0001MA_1_1_56756375-d631-414e-9b94-0aa092f6c09c.jpg?v=1740136583&width=300&height=300&crop=center&fit=crop",
+      "category": "cat",
+      "old_price": 4500,
+      "new_price": 2999,
+      "status": "active"
+    },
+    {
+      "id": "20",
+      "name": "Cat Water Fountain",
+      "descreption": "Automatic water dispenser for cats",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/INTERACTIVECHEESEBOXCATTOY1.21.png?v=1723443618&width=300&height=300&crop=center&fit=crop",
+      "category": "cat",
+      "old_price": 2200,
+      "new_price": 1499,
+      "status": "active"
+    },
+    {
+      "id": "21",
+      "name": "Pedigree Adult Dog Food",
+      "descreption": "Wholesome chicken and rice dog food",
+      "image": "https://m.media-amazon.com/images/I/81+YMZg8fAL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "dogs",
+      "old_price": 650,
+      "new_price": 520,
+      "status": "active"
+    },
+    {
+      "id": "22",
+      "name": "Drools Puppy Food",
+      "descreption": "Special nutrition for growing puppies",
+      "image": "https://m.media-amazon.com/images/I/71mNQx73DZL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "dogs",
+      "old_price": 600,
+      "new_price": 450,
+      "status": "active"
+    },
+    {
+      "id": "23",
+      "name": "Dog Chew Toy Bone",
+      "descreption": "Durable chew bone toy for dogs",
+      "image": "https://m.media-amazon.com/images/I/419H3PgfLsL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "dogs",
+      "old_price": 250,
+      "new_price": 199,
+      "status": "active"
+    },
+    {
+      "id": "24",
+      "name": "Dog Leash Nylon",
+      "descreption": "Strong and durable nylon leash",
+      "image": "https://m.media-amazon.com/images/I/71mv7oAPiaL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "dogs",
+      "old_price": 320,
+      "new_price": 250,
+      "status": "active"
+    },
+    {
+      "id": "25",
+      "name": "Dog Collar Adjustable",
+      "descreption": "Adjustable collar with metal buckle",
+      "image": "https://m.media-amazon.com/images/I/61FQFGtkvzL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "dogs",
+      "old_price": 220,
+      "new_price": 180,
+      "status": "active"
+    },
+    {
+      "id": "26",
+      "name": "Dog Bed Soft",
+      "descreption": "Plush and washable dog bed",
+      "image": "https://m.media-amazon.com/images/I/818848PvqNL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "dogs",
+      "old_price": 1099,
+      "new_price": 899,
+      "status": "active"
+    },
+    {
+      "id": "27",
+      "name": "Dog Grooming Brush",
+      "descreption": "Slicker brush for shedding dogs",
+      "image": "https://m.media-amazon.com/images/I/71iWJiqLLLL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "dogs",
+      "old_price": 399,
+      "new_price": 299,
+      "status": "active"
+    },
+    {
+      "id": "28",
+      "name": "Dog Shampoo Aloe",
+      "descreption": "Gentle shampoo with aloe vera",
+      "image": "https://m.media-amazon.com/images/I/71Pz+F6zWQL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "dogs",
+      "old_price": 450,
+      "new_price": 349,
+      "status": "active"
+    },
+    {
+      "id": "29",
+      "name": "Dog Water Bowl",
+      "descreption": "Anti-slip stainless steel water bowl",
+      "image": "https://m.media-amazon.com/images/I/51zq9lD3VRL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "dogs",
+      "old_price": 280,
+      "new_price": 210,
+      "status": "active"
+    },
+    {
+      "id": "30",
+      "name": "Dog Toy Rope",
+      "descreption": "Strong rope toy for dogs tugging play",
+      "image": "https://m.media-amazon.com/images/I/61t009wfLWL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "dogs",
+      "old_price": 220,
+      "new_price": 175,
+      "status": "active"
+    },
+    {
+      "id": "31",
+      "name": "Cat Tunnel Toy",
+      "descreption": "Foldable play tunnel for cats with crinkle sound",
+      "image": "https://m.media-amazon.com/images/I/61gbrnFrFBS._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "cats",
+      "old_price": 650,
+      "new_price": 499,
+      "status": "active"
+    },
+    {
+      "id": "32",
+      "name": "Cat Treats Chicken",
+      "descreption": "Crunchy chicken flavored treats for cats",
+      "image": "https://m.media-amazon.com/images/I/716dG1dwvtL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "cats",
+      "old_price": 280,
+      "new_price": 220,
+      "status": "active"
+    },
+    {
+      "id": "33",
+      "name": "Cat Carrier Bag",
+      "descreption": "Portable travel bag for cats with mesh ventilation",
+      "image": "https://m.media-amazon.com/images/I/81LAeNYWMEL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "cats",
+      "old_price": 1200,
+      "new_price": 999,
+      "status": "active"
+    },
+    {
+      "id": "34",
+      "name": "Cat Water Fountain",
+      "descreption": "Automatic water dispenser for cats",
+      "image": "https://m.media-amazon.com/images/I/61WQ3IgHSYL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "cats",
+      "old_price": 1500,
+      "new_price": 1250,
+      "status": "active"
+    },
+    {
+      "id": "35",
+      "name": "Cat Harness and Leash",
+      "descreption": "Adjustable harness with matching leash",
+      "image": "https://m.media-amazon.com/images/I/81DhAHQkNdL.AC_UL480_FMwebp_QL65.jpg",
+      "category": "cats",
+      "old_price": 600,
+      "new_price": 480,
+      "status": "active"
+    },
+    {
+      "id": "36",
+      "name": "Cat Food Chicken & Liver",
+      "descreption": "Wet food pouches with chicken and liver chunks",
+      "image": "https://m.media-amazon.com/images/I/71-VfyMeM7L.AC_UL480_FMwebp_QL65.jpg",
+      "category": "cats",
+      "old_price": 420,
+      "new_price": 340,
+      "status": "active"
+    },
+    {
+      "id": "37",
+      "name": "Cat Blanket Plush",
+      "descreption": "Soft warm fleece blanket for cats",
+      "image": "https://m.media-amazon.com/images/I/61shNVEd82L.AC_UL480_FMwebp_QL65.jpg",
+      "category": "cats",
+      "old_price": 420,
+      "new_price": 350,
+      "status": "active"
+    },
+    {
+      "id": "38",
+      "name": "Cat Grooming Gloves",
+      "descreption": "Pet hair remover gloves for cats",
+      "image": "https://m.media-amazon.com/images/I/71bUefP+PUS.AC_UL480_FMwebp_QL65.jpg",
+      "category": "cats",
+      "old_price": 350,
+      "new_price": 299,
+      "status": "active"
+    },
+    {
+      "id": "39",
+      "name": "Cat Paw Cleaning Wipes",
+      "descreption": "Gentle wipes for cat’s paws and coat",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.uIrJ2Twz-M4NsIki4qRxqQHaHd?pid=Api&P=0&h=180",
+      "category": "cats",
+      "old_price": 310,
+      "new_price": 250,
+      "status": "active"
+    },
+    {
+      "id": "40",
+      "name": "Cat Interactive Laser Toy",
+      "descreption": "Automatic rotating laser pointer for cats",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Phv6R9o8-1_dTDdVZpJBAwHaHa?pid=Api&P=0&h=180",
+      "category": "cats",
+      "old_price": 950,
+      "new_price": 780,
+      "status": "active"
+    },
+    {
+      "id": "41",
+      "name": "Dog Training Pads",
+      "descreption": "Absorbent pee pads for puppies and dogs",
+      "image": "https://m.media-amazon.com/images/I/61jBYDLrWRL.AC_UL480_FMwebp_QL65.jpg",
+      "category": "dogs",
+      "old_price": 650,
+      "new_price": 550,
+      "status": "active"
+    },
+    {
+      "id": "42",
+      "name": "Dog Treat Biscuits",
+      "descreption": "Crunchy chicken biscuits for dogs",
+      "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/GnawlersCombo.png?v=1724079980&width=300&height=300&crop=center&fit=crop",
+      "category": "dogs",
+      "old_price": 350,
+      "new_price": 299,
+      "status": "active"
+    },
+    {
+      "id": "43",
+      "name": "Dog Raincoat",
+      "descreption": "Waterproof raincoat for dogs",
+      "image": "https://m.media-amazon.com/images/I/81ahL1R2TQL.AC_UL480_FMwebp_QL65.jpg",
+      "category": "dogs",
+      "old_price": 780,
+      "new_price": 650,
+      "status": "active"
+    },
+    {
+      "id": "44",
+      "name": "Dog Cooling Mat",
+      "descreption": "Summer cooling mat for dogs",
+      "image": "https://m.media-amazon.com/images/I/61hA124-2qL.AC_UL480_FMwebp_QL65.jpg",
+      "category": "dogs",
+      "old_price": 1200,
+      "new_price": 999,
+      "status": "active"
+    },
+    {
+      "id": "45",
+      "name": "Dog Safety Car Seat Belt",
+      "descreption": "Adjustable car seat belt for dogs",
+      "image": "https://m.media-amazon.com/images/I/71XMIJ0AeFL.AC_UL480_FMwebp_QL65.jpg",
+      "category": "dogs",
+      "old_price": 450,
+      "new_price": 350,
+      "status": "active"
+    },
+    {
+      "id": "46",
+      "name": "Dog Hoodie Jacket",
+      "descreption": "Warm hoodie for dogs in winter",
+      "image": "https://m.media-amazon.com/images/I/51JTmE+n5NL.AC_UL480_FMwebp_QL65.jpg",
+      "category": "dogs",
+      "old_price": 950,
+      "new_price": 780,
+      "status": "active"
+    },
+    {
+      "id": "47",
+      "name": "Dog Chew Rope Knot",
+      "descreption": "Durable rope knot toy for dogs",
+      "image": "https://m.media-amazon.com/images/I/51L0Gve7VAL.AC_UL480_FMwebp_QL65.jpg",
+      "category": "dogs",
+      "old_price": 280,
+      "new_price": 220,
+      "status": "active"
+    },
+    {
+      "id": "48",
+      "name": "Dog Dental Chews",
+      "descreption": "Teeth cleaning chew sticks for dogs",
+      "image": "https://m.media-amazon.com/images/I/61jbzLodeeL.AC_UL480_FMwebp_QL65.jpg",
+      "category": "dogs",
+      "old_price": 350,
+      "new_price": 280,
+      "status": "active"
+    },
+    {
+      "id": "49",
+      "name": "Dog Travel Water Bottle",
+      "descreption": "Portable water dispenser for dogs",
+      "image": "https://m.media-amazon.com/images/I/51DZWxwU7hL.AC_UL480_FMwebp_QL65.jpg",
+      "category": "dogs",
+      "old_price": 650,
+      "new_price": 499,
+      "status": "active"
+    },
+    {
+      "id": "50",
+      "name": "Dog Paw Protector Boots",
+      "descreption": "Anti-slip boots for dogs’ paws",
+      "image": "https://m.media-amazon.com/images/I/51DjtR4TnIL.AC_UL480_FMwebp_QL65.jpg",
+      "category": "dogs",
+      "old_price": 1099,
+      "new_price": 899,
+      "status": "active"
+    },
+    {
+      "id": "b75b",
+      "name": "",
+      "descreption": "",
+      "image": "",
+      "category": "",
+      "old_price": "",
+      "new_price": "",
+      "status": "active"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": "1756803904515",
+      "customer": {
+        "name": "Guest User",
+        "email": "guest@example.com",
+        "phone": "0000000000",
+        "address": "Not provided"
+      },
+      "cartItems": [
+        {
+          "id": "1",
+          "name": "Premium Dog Food",
+          "image": "https://petcornerdubai.com/uploads/cache//Banners/webp/Category%20Banner/Daily%20Essential/premium-food-210x210.png",
+          "price": 499,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 499,
+      "discount": 49.900000000000006,
+      "taxes": 24.950000000000003,
+      "shipping": 50,
+      "total": 524.05,
+      "createdAt": "2025-08-02T09:05:04.515Z",
+      "status": "Delivered"
+    },
+    {
+      "id": "3600",
+      "customer": {
+        "name": "asif",
+        "email": "asif@gmail.com",
+        "phone": "7592932551",
+        "address": "j"
+      },
+      "cartItems": [
+        {
+          "id": "4",
+          "name": "Dog Shampoo",
+          "image": "https://petcornerdubai.com/uploads/cache//Products/webp/Dog/Grooming/dog-shampoo-210x210.png",
+          "price": 399,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 399,
+      "discount": 39.900000000000006,
+      "taxes": 19.950000000000003,
+      "shipping": 50,
+      "total": 429.05,
+      "createdAt": "2025-09-02T09:32:46.351Z",
+      "status": "Delivered"
+    },
+    {
+      "id": "6e5a",
+      "customer": {
+        "name": "asif",
+        "email": "asif@gmail.com",
+        "phone": "7592932551",
+        "address": ","
+      },
+      "cartItems": [
+        {
+          "id": "2",
+          "name": "Puppy Starter Food",
+          "image": "https://petcornerdubai.com/uploads/cache//Banners/webp/Category%20Banner/Daily%20Essential/puppy-food-210x210.png",
+          "price": 425,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 425,
+      "discount": 42.5,
+      "taxes": 21.25,
+      "shipping": 50,
+      "total": 453.75,
+      "createdAt": "2025-10-02T10:04:22.257Z",
+      "status": "Delivered"
+    },
+    {
+      "id": "5399",
+      "customer": {
+        "name": "asif",
+        "email": "454",
+        "phone": "  54",
+        "address": "  75"
+      },
+      "cartItems": [
+        {
+          "id": "3",
+          "name": "Dog Chew Sticks",
+          "image": "https://petcornerdubai.com/uploads/cache//Products/webp/Dog/Chews/chew-stick-210x210.png",
+          "price": 249,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 249,
+      "discount": 24.900000000000002,
+      "taxes": 12.450000000000001,
+      "shipping": 50,
+      "total": 286.54999999999995,
+      "createdAt": "2025-09-08T09:21:24.341Z",
+      "status": "Delivered"
+    },
+    {
+      "id": "d694",
+      "customer": {
+        "name": "fcdghbjk",
+        "email": "dcgfvh",
+        "phone": "ftyuk",
+        "address": "dfgh"
+      },
+      "cartItems": [
+        {
+          "id": "3",
+          "name": "Dog Chew Sticks",
+          "image": "https://petcornerdubai.com/uploads/cache//Products/webp/Dog/Chews/chew-stick-210x210.png",
+          "price": 249,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 249,
+      "discount": 24.900000000000002,
+      "taxes": 12.450000000000001,
+      "shipping": 50,
+      "total": 286.54999999999995,
+      "createdAt": "2025-09-08T09:23:17.667Z",
+      "status": "Delivered"
+    },
+    {
+      "id": "c682",
+      "userId": "3153",
+      "user": {
+        "id": "3153",
+        "fullName": "Shahid",
+        "email": "shahid@gmail.com",
+        "password": "123456",
+        "blocked": false,
+        "status": "active",
+        "role": "user"
+      },
+      "customer": {
+        "name": "Shahid",
+        "email": "shahid@gmail.com",
+        "phone": "7592932551",
+        "address": "jnnhjn"
+      },
+      "cartItems": [],
+      "subtotal": 0,
+      "discount": 0,
+      "taxes": 0,
+      "shipping": 50,
+      "total": 50,
+      "status": "Delivered",
+      "createdAt": "2025-09-08T09:38:43.233Z"
+    },
+    {
+      "id": "2442",
+      "userId": "42ab",
+      "user": {
+        "id": "42ab",
+        "fullName": "az",
+        "email": "az@gmail.com",
+        "password": "123456",
+        "status": "active",
+        "blocked": false,
+        "role": "user"
+      },
+      "customer": {
+        "name": "az",
+        "email": "az@gmail.com",
+        "phone": ".",
+        "address": "."
+      },
+      "cartItems": [
+        {
+          "id": "1",
+          "name": "Premium Dog Food",
+          "image": "https://petcornerdubai.com/uploads/cache//Banners/webp/Category%20Banner/Daily%20Essential/premium-food-210x210.png",
+          "price": "4999",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 4999,
+      "discount": 499.90000000000003,
+      "taxes": 249.95000000000002,
+      "shipping": 50,
+      "total": 4799.05,
+      "status": "Shipped",
+      "createdAt": "2025-09-08T10:06:07.003Z"
+    },
+    {
+      "id": "ea2f",
+      "userId": "3153",
+      "user": {
+        "id": "3153",
+        "fullName": "Shahid",
+        "email": "shahid@gmail.com",
+        "password": "123456",
+        "blocked": false,
+        "status": "active",
+        "role": "user"
+      },
+      "customer": {
+        "name": "Shahid",
+        "email": "shahid@gmail.com",
+        "phone": "7592932551",
+        "address": "mbjhghfdytd"
+      },
+      "cartItems": [
+        {
+          "id": "8",
+          "name": "Cat Treats",
+          "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/1_be06c3c9-3fa8-48dc-90b2-9d4f28dd1014.jpg?v=1752045049&width=300&height=300&crop=center&fit=crop",
+          "price": 199,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 199,
+      "discount": 19.900000000000002,
+      "taxes": 9.950000000000001,
+      "shipping": 50,
+      "total": 239.04999999999998,
+      "status": "Shipped",
+      "createdAt": "2025-09-09T06:29:29.041Z"
+    },
+    {
+      "id": "f581",
+      "userId": "3153",
+      "user": {
+        "id": "3153",
+        "fullName": "Shahid",
+        "email": "shahid@gmail.com",
+        "password": "123456",
+        "blocked": false,
+        "status": "active",
+        "role": "user"
+      },
+      "customer": {
+        "name": "Shahid",
+        "email": "shahid@gmail.com",
+        "phone": "7592932551",
+        "address": "nnr"
+      },
+      "cartItems": [
+        {
+          "id": "4",
+          "name": "Dog Shampoo",
+          "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/1131.png?v=1750922664&width=300&height=300&crop=center&fit=crop",
+          "price": 399,
+          "quantity": 2
+        },
+        {
+          "id": "3",
+          "name": "Dog Chew Sticks",
+          "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/1_P1_2317462b-08f9-4ad6-92ee-a84e5ae09722.png?v=1750069994&width=300&height=300&crop=center&fit=crop",
+          "price": 249,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 1047,
+      "discount": 104.7,
+      "taxes": 52.35,
+      "shipping": 50,
+      "total": 1044.65,
+      "status": "Pending",
+      "createdAt": "2025-09-09T14:27:01.369Z"
+    },
+    {
+      "id": "5760",
+      "userId": "36ca",
+      "user": {
+        "id": "36ca",
+        "fullName": "hashim",
+        "email": "h@gmail.com",
+        "password": "123",
+        "role": "user",
+        "status": "active",
+        "blocked": false
+      },
+      "customer": {
+        "name": "hashim",
+        "email": "h@gmail.com",
+        "phone": "7592932551",
+        "address": "nnr"
+      },
+      "cartItems": [
+        {
+          "id": "4",
+          "name": "Dog Shampoo",
+          "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/1131.png?v=1750922664&width=300&height=300&crop=center&fit=crop",
+          "price": 399,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 399,
+      "discount": 39.900000000000006,
+      "taxes": 19.950000000000003,
+      "shipping": 50,
+      "total": 429.05,
+      "status": "Pending",
+      "createdAt": "2025-09-11T05:10:41.112Z"
+    },
+    {
+      "id": "ce7f",
+      "userId": "3153",
+      "user": {
+        "id": "3153",
+        "fullName": "Shahid",
+        "email": "shahid@gmail.com",
+        "password": "123456",
+        "blocked": false,
+        "status": "active",
+        "role": "user"
+      },
+      "customer": {
+        "name": "Shahid",
+        "email": "shahid@gmail.com",
+        "phone": "7592932551",
+        "address": "nnr"
+      },
+      "cartItems": [
+        {
+          "id": "4",
+          "name": "Dog Shampoo",
+          "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/1131.png?v=1750922664&width=300&height=300&crop=center&fit=crop",
+          "price": 399,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 399,
+      "discount": 39.900000000000006,
+      "taxes": 19.950000000000003,
+      "shipping": 50,
+      "total": 429.05,
+      "status": "Pending",
+      "createdAt": "2025-09-16T06:48:05.758Z"
+    },
+    {
+      "id": "e1b7",
+      "userId": "3153",
+      "user": {
+        "id": "3153",
+        "fullName": "Shahid",
+        "email": "shahid@gmail.com",
+        "password": "123456",
+        "blocked": false,
+        "status": "active",
+        "role": "user"
+      },
+      "customer": {
+        "name": "Shahid",
+        "email": "shahid@gmail.com",
+        "phone": "7592932551",
+        "address": "mmm"
+      },
+      "cartItems": [
+        {
+          "id": "4",
+          "name": "Dog Shampoo",
+          "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/1131.png?v=1750922664&width=300&height=300&crop=center&fit=crop",
+          "price": 399,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 399,
+      "discount": 39.900000000000006,
+      "taxes": 19.950000000000003,
+      "shipping": 50,
+      "total": 429.05,
+      "status": "Pending",
+      "createdAt": "2025-09-16T10:25:41.006Z"
+    },
+    {
+      "id": "c8b2",
+      "userId": "3153",
+      "user": {
+        "id": "3153",
+        "fullName": "Shahid",
+        "email": "shahid@gmail.com",
+        "password": "123456",
+        "blocked": false,
+        "status": "active",
+        "role": "user"
+      },
+      "customer": {
+        "name": "Shahid",
+        "email": "shahid@gmail.com",
+        "phone": "7592932551",
+        "address": "alappuzha"
+      },
+      "cartItems": [
+        {
+          "id": "3",
+          "name": "Dog Chew Sticks",
+          "image": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/1_P1_2317462b-08f9-4ad6-92ee-a84e5ae09722.png?v=1750069994&width=300&height=300&crop=center&fit=crop",
+          "price": 249,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 249,
+      "discount": 24.900000000000002,
+      "taxes": 12.450000000000001,
+      "shipping": 50,
+      "total": 286.54999999999995,
+      "status": "Pending",
+      "createdAt": "2025-09-16T10:32:39.927Z"
+    }
+  ],
+  "admin": [
+    {
+      "id": "123",
+      "fullName": "Asif",
+      "email": "admin1@gmail.com",
+      "password": "123456",
+      "role": "admin"
+    }
+  ]
+}
