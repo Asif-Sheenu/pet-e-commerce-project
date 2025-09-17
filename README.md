@@ -54,7 +54,7 @@ Build tools: Vite / Create React App
 
 ## 4. Quick Demo / Screenshots
 
-![Homepage Screenshot](./assets/screenShots/home.png)
+![Homepage Screenshot](src/assets/screenShots/adminDashboard.gif)
 ![Product Page](./assets/screenShots/products.png)
 ![Order Confirmation Page](./assets/screenShots/orderconfirmation.png)
 ![Admin Dashboard ](./assets/screenShots/adminDashboard.gif)
@@ -67,21 +67,21 @@ Node.js (v16+)
 npm or yarn
 
 Install & Run
-# clone repo
+ clone repo
 git clone https://github.com/<your-username>/pawfect.git
 cd pawfect
 
-# install
+ install
 npm install
-# or
+ or
 yarn
 
-# run simulated backend (see next section)
+ run simulated backend (see next section)
 npm run server
 
-# run frontend
+ run frontend
 npm start
-# or with yarn
+ or with yarn
 yarn start
 
 
