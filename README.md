@@ -54,10 +54,10 @@ Build tools: Vite / Create React App
 
 ## 4. Quick Demo / Screenshots
 
-![Homepage Screenshot](src/assets/screenShots/adminDashboard.gif)
-![Product Page](./assets/screenShots/products.png)
-![Order Confirmation Page](./assets/screenShots/orderconfirmation.png)
-![Admin Dashboard ](./assets/screenShots/adminDashboard.gif)
+![Homepage Screenshot](https://github.com/Asif-Sheenu/pet-e-commerce-project/blob/46b1562a94f124d34e8f891a8363a7c7e075590a/src/assets/screenShots/home.png)
+![Product Page](https://github.com/Asif-Sheenu/pet-e-commerce-project/blob/46b1562a94f124d34e8f891a8363a7c7e075590a/src/assets/screenShots/products.png)
+![Order Confirmation Page](https://github.com/Asif-Sheenu/pet-e-commerce-project/blob/46b1562a94f124d34e8f891a8363a7c7e075590a/src/assets/screenShots/orderconfirmation.png)
+![Admin Dashboard ](https://github.com/Asif-Sheenu/pet-e-commerce-project/blob/46b1562a94f124d34e8f891a8363a7c7e075590a/src/assets/screenShots/adminDashboard.gif)
 
 ## 5. Getting Started
 Prerequisites
